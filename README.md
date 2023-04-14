@@ -16,11 +16,8 @@ Here are some ideas to get you started:
 -->
 <div id="header" align="center">
    <h1>
-    Hey, I'm @blackgirlbytes
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+    Hey, I'm @KangPvP
   </h1>
-   <a href="https://myoctocat.dev/@blackgirlbytes/octocat">
-  <img align="center" src="https://user-images.githubusercontent.com/22990146/155748276-bc6a3a99-b8e3-464e-adf5-ca88b5acd642.png" width=200 />
 </a>
   <div id="badges">
     <a href="https://www.linkedin.com/in/rizel-bobb-semple/">
