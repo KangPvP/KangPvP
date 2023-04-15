@@ -1,30 +1,16 @@
-### Hi there 👋
-
-<!--
-**KangPvP/KangPvP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <div id="header" align="center">
-   <h1>
+  <h1>
     Hey, I'm @KangPvP
   </h1>
-</a>
   <div id="badges">
-    <a href="https://www.linkedin.com/in/rizel-bobb-semple/">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <a href="https://discord.gg/EtxNkW8HSx">
+      <img src="https://img.shields.io/badge/KangPvP%231304-gray?logo=discord" alt="Discord Badge"/>
     </a>
-    <a href="https://twitter.com/blackgirlbytes">
-      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    <a href="https://www.instagram.com/kangpvp/">
+      <img src="https://img.shields.io/badge/KangPvP-gray?logo=instagram" alt="Insta Badge"/>
+    </a>
+    <a href="https://www.spigotmc.org/members/kangpvp.1524474/">
+      <img src="https://img.shields.io/badge/Spigot-MC-yellow" alt="Spigot Badge"/>
     </a>
   </div>
 </div>
@@ -33,7 +19,7 @@ Here are some ideas to get you started:
 
 ---
 
-### 👋🏾 👩🏾‍💻 About Me :
+### 👋 👩‍💻 About Me :
 I am a French Developer, and I love Minecraft.
 
 - 🌱  I’m currently working on becoming an active open source contributor (and eventually a maintainer)!
@@ -59,11 +45,10 @@ I am a French Developer, and I love Minecraft.
 
 ### :fire: My Stats :
 <!--[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KangPvP&theme=darcula&border_radius=5)](https://git.io/streak-stats)-->
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=KangPvP&layout=compact&theme=darcula&border_radius=5" title="Stats" alt="Stats"/>&nbsp;  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KangPvP&layout=compact&theme=darcula&border_radius=5" title="Languages"  alt="Languages"/>&nbsp;
+<div vertical-align="top">
+  <img src="https://github-readme-stats.vercel.app/api?username=KangPvP&layout=compact&theme=darcula&border_radius=5" title="MongoDb" alt="MongoDb"/>&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KangPvP&layout=compact&theme=darcula&border_radius=5&card_width=500" title="MySQL"  alt="MySQL"/>&nbsp;
 </div>
-
 
 ---
 
