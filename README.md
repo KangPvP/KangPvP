@@ -59,9 +59,9 @@ I am a French Developer, and I love Minecraft.
 
 ### :fire: My Stats :
 <!--[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KangPvP&theme=darcula&border_radius=5)](https://git.io/streak-stats)-->
-<div>  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KangPvP&layout=compact&theme=darcula&border_radius=5" title="MySQL"  alt="MySQL"/>&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KangPvP&layout=compact&theme=darcula&border_radius=5" title="MongoDb" alt="MongoDb"/>&nbsp;
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=KangPvP&layout=compact&theme=darcula&border_radius=5" title="Stats" alt="Stats"/>&nbsp;  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KangPvP&layout=compact&theme=darcula&border_radius=5" title="Languages"  alt="Languages"/>&nbsp;
 </div>
 
 
