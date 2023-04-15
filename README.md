@@ -3,17 +3,6 @@
 <!--
 **KangPvP/KangPvP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <div id="header" align="center">
    <h1>
     Hey, I'm @KangPvP
@@ -59,11 +48,10 @@ I am a French Developer, and I love Minecraft.
 
 ### :fire: My Stats :
 <!--[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KangPvP&theme=darcula&border_radius=5)](https://git.io/streak-stats)-->
-<div>  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KangPvP&layout=compact&theme=darcula&border_radius=5" title="MySQL"  alt="MySQL"/>&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KangPvP&layout=compact&theme=darcula&border_radius=5" title="MongoDb" alt="MongoDb"/>&nbsp;
+<div> 
+  <img src="https://github-readme-stats.vercel.app/api?username=KangPvP&layout=compact&theme=darcula&border_radius=5" title="Stat"  alt="Stat"/>&nbsp;
+  <img style="padding: 20px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KangPvP&layout=compact&theme=darcula&border_radius=5" title="Language" alt="Language"/>&nbsp;
 </div>
-
 
 ---
 
