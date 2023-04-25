@@ -26,10 +26,8 @@
 I am a French Developer, I fond of Minecraft and I love exploring and learning new things...
 
 - 🌱  I’m currently working on becoming an active open source contributor (and eventually a maintainer)!
-- 💬 Ask me about GitHub, open source, community building, React.js, and AWS.
-- 😄 Pronouns: she/her/hers
-- ⚡ Fun fact: I've been in the same room as Michelle Obama! 
-
+- 💬 Ask me about GitHub, open source, community building.
+- ⚡ Fun fact: Once I had slept on a roundabout with a deckchair
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
