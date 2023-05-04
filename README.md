@@ -23,7 +23,7 @@
 ---
 
 ### 👋 👩‍💻 About Me :
-I am a French Developer, I fond of Minecraft and I love exploring and learning new things..
+I am a French Developer, I fond of Minecraft and I love exploring and learning new things...
 
 - 🌱  I’m currently working on becoming an active open source contributor (and eventually a maintainer) !
 - 💬 Ask me about GitHub, open source, community building.
